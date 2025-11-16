@@ -24,8 +24,7 @@ This ensures reliability, accuracy, and eliminates hallucinations.
 ## 📁 Project Structure
 
 ```
-AmbedkarGPT/
-
+AmbedkarGPT-Intern-Task/
 │-- main.py
 │-- speech.txt
 │-- requirements.txt
