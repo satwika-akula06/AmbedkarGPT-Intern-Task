@@ -85,6 +85,7 @@ You will see:
 Examples:
 
 You: What is the central message of the speech?
+
 Answer: The real enemy is the belief in the shastras.
 
 If the information is missing:
@@ -125,19 +126,18 @@ The document does not contain this information.
 
 ## 📦 Requirements (requirements.txt)
 
-langchain==0.1.12
-langchain-community==0.0.24
-langchain-core==0.1.53
-langchain-text-splitters==0.0.2
-chromadb==0.4.22
-sentence-transformers==5.1.2
-huggingface-hub==0.36.0
-ollama==0.1.8
-pydantic==2.12.4
-pydantic_core==2.41.5
-numpy==1.26.4
-requests==2.32.5
-
+- langchain==0.1.12
+- langchain-community==0.0.24
+- langchain-core==0.1.53
+- langchain-text-splitters==0.0.2
+- chromadb==0.4.22
+- sentence-transformers==5.1.2
+- huggingface-hub==0.36.0
+- ollama==0.1.8
+- pydantic==2.12.4
+- pydantic_core==2.41.5
+- numpy==1.26.4
+- requests==2.32.5
 
 ---
 
