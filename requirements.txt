@@ -1,0 +1,25 @@
+# Core LangChain packages
+langchain==0.1.12
+langchain-community==0.0.24
+langchain-core==0.1.53
+langchain-text-splitters==0.0.2
+
+# Vector Database
+chromadb==0.4.22
+
+# Embeddings
+sentence-transformers==5.1.2
+huggingface-hub==0.36.0
+
+# Local LLM (Ollama)
+ollama==0.1.8
+
+# Required for LangChain compatibility
+pydantic==2.12.4
+pydantic_core==2.41.5
+
+# Misc utilities used internally
+numpy==1.26.4
+requests==2.32.5
+
+
